@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97296683171",
+    "firebase_url": "https://appointment-ea3c1.firebaseio.com",
+    "project_id": "appointment-ea3c1",
+    "storage_bucket": "appointment-ea3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97296683171:android:b3c9f9d386b06c5297ef16",
+        "android_client_info": {
+          "package_name": "com.example.WorkzApp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97296683171-vtmind1g3d1t1tc95l4lv6dm9khmm9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WK6Agc8cJiibW-JoYv3DwgKsR-IpQzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97296683171-vtmind1g3d1t1tc95l4lv6dm9khmm9qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
